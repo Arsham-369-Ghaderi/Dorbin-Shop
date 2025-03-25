@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: vaziri;
+    src: url(./font/Vazirmatn-Regular.ttf);
+}
+
+* {
+    font-family: vaziri;
+}
+
+::selection {
+    background: #4A628A;
+    color: #DFF2EB;
+}
+
+@layer components {
+    .special-btn {
+        @apply bg-color1 text-white font-semibold py-3 px-6 rounded-xl shadow-[0px_10px_14px_-4px_#B9E5E8] hover:!scale-110 duration-300;
+    } 
+}
+
+@layer utilities {
+    .special-shadow {
+        filter: drop-shadow(-6px 8px 15px rgba(0, 0, 0, 0.452));
+    }
+}
+
+@layer utilities {
+    .boxing-shadow {
+        box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    }
+}
+
+@layer utilities {
+    .special-pp {
+        text-shadow: 1px 1px 5px white;
+    }
+}
