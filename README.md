@@ -1,12 +1,55 @@
-# React + Vite
+<p align="center">
+  <img src="./public/images/redmi-image.png" alt="Saipa Redesign Preview" width="100%" />
+</p>
+# 📸 Camera Shop — Frontend Design Concept
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚧 Project Status: Archived Experiment
 
-Currently, two official plugins are available:
+Camera Shop is a personal frontend practice project created while I was learning and working with React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project explores the design of a modern camera store interface, with a focus on visual presentation, smooth animations, and interactive UI elements.
 
-## Expanding the ESLint configuration
+This is a **design concept and learning project**, not a real online store. It represents an earlier stage of my frontend development journey and my experience building interfaces with React.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Project Goals
+
+- 🎨 Experimenting with modern e-commerce UI design
+- ⚛️ Practicing React component-based development
+- 🎬 Creating smooth and engaging interface animations
+- 📱 Exploring responsive frontend layouts
+- 🚀 Improving frontend development and UI design skills
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,javascript,tailwind" alt="React, JavaScript, Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/framer/0055FF" height="48" alt="Framer Motion" />
+</div>
+
+### 🎬 Animation Library
+
+- **Framer Motion** — Smooth transitions and interactive UI animations
+
+---
+
+## 📸 Preview
+
+A visual concept of a camera store interface, built as part of my frontend learning journey.
+
+---
+
+## 👨‍💻 Author
+
+**Arsham Ghaderi**
+
+Frontend Developer
+
+[GitHub Profile](https://github.com/Arsham-369-Ghaderi)
+
+---
+
+⭐ This project reflects an earlier stage of my journey in frontend development and my experiments with React and modern UI design.
