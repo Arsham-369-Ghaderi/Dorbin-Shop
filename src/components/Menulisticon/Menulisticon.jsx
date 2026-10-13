@@ -1,7 +1,7 @@
 import { motion, AnimatePresence } from 'framer-motion';
 
 
-const Menulisticon = ({ open }) => {
+const MenuResponse = ({ open }) => {
   return (
     <AnimatePresence mode='wait'>
         {
@@ -23,4 +23,4 @@ const Menulisticon = ({ open }) => {
   )
 }
 
-export default Menulisticon
+export default MenuResponse
